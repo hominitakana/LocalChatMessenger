@@ -1,7 +1,11 @@
 # LocalChatMessenger
 
 ## Overview
-ローカルでソケット通信を行う。サーバーは、クライアントから送信されたメッセージを受け取り、Fakerによって作成されたランダムなテキストをクライアントへ送り返す。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（Local Chat Messenger）
+ローカルでソケット通信を行う。サーバーは、クライアントから送信されたメッセージを受け取り、Fakerによって作成されたランダムなテキストをクライアントへ送り返す。
+<br /> 
+
+## Project
+コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（Local Chat Messenger）
 <br />
 
 ## Pre Installation
