@@ -1,17 +1,17 @@
 # LocalChatMessenger
 
 ## Overview
-ローカルでソケット通信を行うスクリプトです。サーバは、クライアントから送信されたメッセージを受け取り、Fakerによって作成されたランダムなテキストをクライアントへ送り返します。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（Local Chat Messenger）として取り組みました。
+ローカルでソケット通信を行う。サーバーは、クライアントから送信されたメッセージを受け取り、Fakerによって作成されたランダムなテキストをクライアントへ送り返す。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（Local Chat Messenger）
 <br />
 
 ## Pre Installation
-* スクリプトを実行するには、[Faker](https://pypi.org/project/Faker/0.7.4/)のインストールが必要です。
+* スクリプトを実行には、[Faker](https://pypi.org/project/Faker/0.7.4/)のインストールが必要。
 	```zsh
 	pip install Faker
 	```
 <br />
 
-## Learning Matter
+## Learning Matter。
 * ソケット通信
 	* server
 		* socket() → bind() → listen() → accept() → receive()/send() → close()
